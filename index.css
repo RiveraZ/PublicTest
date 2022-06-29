@@ -1,0 +1,23 @@
+header {
+    border: thick double;
+    border-color: darkblue;
+    width: fit-content;
+    padding: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+p {
+    font-size: 18px;
+}
+
+body{
+    font-family:'Times New Roman', Times, serif;
+}
+img{
+    border-radius: 50%;
+    border: 1px solid #ddd;
+    position: absolute;
+    top: 2px;
+    right: 2px;
+    padding: 5px;
+    width: 150px;
+}
